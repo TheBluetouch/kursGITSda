@@ -1,3 +1,6 @@
 To pierwszy podpunkt zadania 4
 kommit ten bedzie podlegał na dodaniu utego pliku.
 20-03-16 13:12
+
+kolejna zmiana
+20-03-16 13:17
