@@ -1,3 +1,4 @@
 Zmiana pliku.
-Na inny tekst.
+
 Kolejna zmiana.
+Nowa eksperymentalna funkcjonaloność.
